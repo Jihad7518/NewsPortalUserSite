@@ -4,7 +4,7 @@ import { FaFacebookF } from 'react-icons/fa'
 import { AiFillYoutube, AiOutlineTwitter } from 'react-icons/ai'
 import bg_header from '../assets/header-bg.jpg'
 import logo from '../assets/logo.png'
-import adver_image from '../assets/sample-add.jpg'
+import adver_image from '../assets/sample-ndls.jpg'
 import Image from 'next/image'
 import Header_Category from './Header_Category'
 
